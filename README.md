@@ -1,4 +1,7 @@
 # EA-2
+Deliverable
+ - EA-2 describes my participation in an extracurricular activity. 
+
 Deliverable-Specific Content
  - Code, assets and other files are label HHC.
 
